@@ -1,8 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyYjFsNm9kNnptNW9kbWMwYjY3cWJqNDJzbXd5NzdqejZueGlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gmDwphaOWmfkY/giphy.gif" width="500" length="500"/>
+  <img src="https://tenor.com/ru/view/itoshi-sae-blue-lock-flow-football-soccer-gif-9955944141912821621" width="500"/>
 </div>
 ## Hi im Asdenone 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
