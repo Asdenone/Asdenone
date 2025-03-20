@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://tenor.com/l1CuBTwnyyT.gif](https://media1.tenor.com/m/iiqecr5YT3UAAAAC/itoshi-sae-blue-lock.gif)" width="500"/>
+  <img src="[https://tenor.com/l1CuBTwnyyT.gif](https://media1.tenor.com/m/iiqecr5YT3UAAAAC/itoshi-sae-blue-lock.gif)"/>
 </div>
 ## Hi im Asdenone 👋
 
