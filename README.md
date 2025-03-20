@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="[https://tenor.com/l1CuBTwnyyT.gif](https://media1.tenor.com/m/iiqecr5YT3UAAAAC/itoshi-sae-blue-lock.gif)"/>
-</div>
+![itoshi-sae-blue-lock](https://github.com/user-attachments/assets/fd60a632-7c2b-48ad-ab66-911128318cfd)
 ## Hi im Asdenone 👋
 
 ### :hammer_and_wrench: Languages and Tools :
