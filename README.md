@@ -1,8 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRyYjFsNm9kNnptNW9kbWMwYjY3cWJqNDJzbXd5NzdqejZueGlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gmDwphaOWmfkY/giphy.gif" width="100"/>
+</div>
 ## Hi im Asdenone 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+## My stek
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
